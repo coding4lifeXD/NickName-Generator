@@ -1,0 +1,12 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  text-align: center;
+  background: lightblue;
+}
+h2 {
+  margin: 0px;
+  margin-top: 5px;
+}
